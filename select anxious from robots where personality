@@ -1,0 +1,12 @@
+      name      |                source                |    personality     | id 
+----------------+--------------------------------------+--------------------+----
+ GLaDOS         | Portal                               | passive-aggressive |  1
+ WALL-E         | WALL-E                               | curious            |  2
+ Marvin         | The Hitchhiker's Guide to the Galaxy | pessimistic        |  3
+ C3PO           | Star Wars                            | anxious            |  4
+ Mr. Butlertron | Clone High                           | compassionate      |  5
+ Ava            | Ex Machina                           | clever             |  6
+ Deep Thought   | The Hitchhiker's Guide to the Galaxy | thorough           |  7
+ R2D2           | Star Wars                            | loyal              |  8
+(8 rows)
+
